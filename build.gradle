@@ -2,9 +2,7 @@ plugins {
 	id 'java'
 	id 'org.springframework.boot' version '2.7.11'
 	id 'io.spring.dependency-management' version '1.0.15.RELEASE'
-	id "com.gradle.common-custom-user-data-gradle-plugin" version "1.10"
-	id "com.gradle.enterprise" version "3.13"
-}
+	}
 
 group = 'com.hdfc.ems'
 version = '0.0.1-SNAPSHOT'
