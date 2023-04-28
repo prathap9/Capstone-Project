@@ -1,0 +1,6 @@
+27-04-2023 21:22:20 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-6] controller.EmployeeRestController 28 - Getmapping called
+27-04-2023 21:22:20 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-6] service.EmployeeServiceImpl 35 - Employee Details Shown successfully!
+27-04-2023 23:01:47 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-1] controller.EmployeeRestController 28 - Getmapping called
+27-04-2023 23:01:47 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-1] service.EmployeeServiceImpl 35 - Employee Details Shown successfully!
+27-04-2023 23:03:14 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-10] controller.EmployeeRestController 28 - Getmapping called
+27-04-2023 23:03:14 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-10] service.EmployeeServiceImpl 35 - Employee Details Shown successfully!
