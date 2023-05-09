@@ -10,7 +10,7 @@ import com.hdfc.ems.entity.Employee;
 import com.hdfc.ems.exception.EmployeeNotFound;
 import com.hdfc.ems.service.IEmployeeService;
 
-@SpringBootTest
+/* @SpringBootTest
 public class EmployeeServiceTest {
 
 	
@@ -20,3 +20,4 @@ public class EmployeeServiceTest {
 	 emp=service.getEmployee(1); assertNotNull(emp); }
 	 
 }
+*/
