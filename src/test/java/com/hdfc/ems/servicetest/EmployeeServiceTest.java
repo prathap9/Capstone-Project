@@ -13,10 +13,10 @@ import com.hdfc.ems.service.IEmployeeService;
 @SpringBootTest
 public class EmployeeServiceTest {
 
-	/*
-	 * @Autowired IEmployeeService service;
-	 * 
-	 * @Test void testGetEmployee() throws EmployeeNotFound,Exception { EmployeeDTO
-	 * emp=service.getEmployee(1); assertNotNull(emp); }
-	 */
+	
+	 @Autowired IEmployeeService service;
+	  
+	 @Test void testGetEmployee() throws EmployeeNotFound,Exception { EmployeeDTO
+	 emp=service.getEmployee(1); assertNotNull(emp); }
+	 
 }

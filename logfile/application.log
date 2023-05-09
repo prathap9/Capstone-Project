@@ -12,3 +12,45 @@
 02-05-2023 23:08:20 EmployeeServiceImpl.java ERROR [https-jsse-nio-9696-exec-1] service.EmployeeServiceImpl 31 - Invalid EmployeeID
 02-05-2023 23:16:41 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-7] controller.EmployeeRestController 24 - Getmapping called
 02-05-2023 23:16:41 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-7] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+02-05-2023 23:58:24 EmployeeRestController.java INFO [http-nio-9696-exec-8] controller.EmployeeRestController 24 - Getmapping called
+02-05-2023 23:58:24 EmployeeServiceImpl.java INFO [http-nio-9696-exec-8] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+02-05-2023 23:58:51 EmployeeRestController.java INFO [http-nio-9696-exec-2] controller.EmployeeRestController 24 - Getmapping called
+02-05-2023 23:58:52 EmployeeServiceImpl.java INFO [http-nio-9696-exec-2] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 00:08:09 EmployeeRestController.java INFO [http-nio-9696-exec-2] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 00:08:10 EmployeeServiceImpl.java INFO [http-nio-9696-exec-2] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 00:29:15 EmployeeRestController.java INFO [http-nio-9696-exec-7] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 00:29:15 EmployeeServiceImpl.java INFO [http-nio-9696-exec-7] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 09:56:38 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-6] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 09:56:38 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-6] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 10:12:59 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-10] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 10:12:59 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-10] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 10:25:42 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-9] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 10:25:42 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-9] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 10:46:32 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-5] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 10:46:32 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-5] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 10:46:39 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-2] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 10:46:39 EmployeeServiceImpl.java ERROR [https-jsse-nio-9696-exec-2] service.EmployeeServiceImpl 31 - Invalid EmployeeID
+03-05-2023 10:52:50 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-1] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 10:52:50 EmployeeServiceImpl.java ERROR [https-jsse-nio-9696-exec-1] service.EmployeeServiceImpl 31 - Invalid EmployeeID
+03-05-2023 10:53:14 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-7] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 10:53:14 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-7] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 12:04:13 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-5] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 12:04:13 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-5] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 12:04:27 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-2] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 12:04:27 EmployeeServiceImpl.java ERROR [https-jsse-nio-9696-exec-2] service.EmployeeServiceImpl 31 - Invalid EmployeeID
+03-05-2023 12:05:24 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-1] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 12:05:24 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-1] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+03-05-2023 16:34:43 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-7] controller.EmployeeRestController 24 - Getmapping called
+03-05-2023 16:34:43 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-7] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+04-05-2023 14:38:47 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-6] controller.EmployeeRestController 24 - Getmapping called
+04-05-2023 14:38:48 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-6] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+04-05-2023 14:46:25 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-6] controller.EmployeeRestController 24 - Getmapping called
+04-05-2023 14:46:26 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-6] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+04-05-2023 14:46:34 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-7] controller.EmployeeRestController 24 - Getmapping called
+04-05-2023 14:46:34 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-7] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+04-05-2023 14:46:49 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-8] controller.EmployeeRestController 24 - Getmapping called
+04-05-2023 14:46:49 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-8] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+04-05-2023 14:51:42 EmployeeRestController.java INFO [https-jsse-nio-9696-exec-6] controller.EmployeeRestController 24 - Getmapping called
+04-05-2023 14:51:42 EmployeeServiceImpl.java INFO [https-jsse-nio-9696-exec-6] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
+04-05-2023 17:18:04 EmployeeRestController.java INFO [http-nio-9696-exec-1] controller.EmployeeRestController 24 - Getmapping called
+04-05-2023 17:18:04 EmployeeServiceImpl.java INFO [http-nio-9696-exec-1] service.EmployeeServiceImpl 34 - Employee Details Shown successfully!
